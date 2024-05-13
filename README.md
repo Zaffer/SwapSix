@@ -41,7 +41,7 @@ SwapSix
 1. Change keyboard with [WIN KEY]+[SPACE]
 1. Practice at keybr.com
 
-[Download for Windows]()
+[Download Windows Installer ZIP](https://github.com/Zaffer/SwapSix/raw/main/SWAP6.zip)
 
 ## Improvement
 ### Speed
