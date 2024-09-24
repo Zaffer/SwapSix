@@ -1,6 +1,10 @@
 # The SwapSix Keyboard Layout
 A simply better alternative keyboard layout optimising for minimal change and maximum egonomics.
 
+Watch the journey here:
+https://www.youtube.com/watch?v=9JMhIDGfquU
+
+
 ![swapsixlayout](https://github.com/Zaffer/SwapSix/assets/51871197/2aa69c1e-8111-44a0-8d2a-d601ec3974d1)
 
 What are the minimum number of key positions that need to change the minimum amount in order to get the maximum benefit in typing effieciency?
